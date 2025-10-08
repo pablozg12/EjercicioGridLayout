@@ -1,0 +1,33 @@
+.header{
+    background-color: rgb(0, 166, 207);
+    color:white
+}
+
+.nav{
+    background-color: rgb(0, 179, 125);
+    color:white
+}
+
+.aside{
+    background-color: rgb(106, 214, 160);
+    color:white
+}
+
+.content{
+    background-color: rgb(0, 193, 252);
+    color:white
+}
+
+.section{
+    background-color: rgb(0, 52, 150);
+    color:white
+}
+
+.footer{
+    background-color: rgb(0, 225, 255);
+    color:white
+}
+
+body{
+    background-color: rgb(173, 227, 243);
+}
